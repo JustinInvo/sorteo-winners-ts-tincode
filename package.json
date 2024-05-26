@@ -1,0 +1,20 @@
+{
+  "name": "lottery",
+  "version": "0.0.1",
+  "description": "Aplicación de sorteo para terminal",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc --watch"
+  },
+  "author": "Justin Arias Agramonte",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/lodash": "^4.17.4",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "lodash": "^4.17.21"
+  }
+}
